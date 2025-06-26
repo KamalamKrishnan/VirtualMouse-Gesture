@@ -7,7 +7,8 @@ https://github.com/KamalamKrishnan/VirtualMouse
 ---
 
 ## 📹 Demo
-🎬 **Recorded Video**: `vm_demo.mp4`
+🎬 📼 **Recorded Video**: [▶ Watch the demo](./vm_demo.mp4)
+
 
 ---
 
